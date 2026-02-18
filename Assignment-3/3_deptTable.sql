@@ -1,4 +1,3 @@
-DROP TABLE dept;
 CREATE TABLE dept (
 	dept_id INT,
     dept_name VARCHAR(15)
